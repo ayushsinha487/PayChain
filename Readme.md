@@ -27,3 +27,14 @@ The smart contract `SalaryDistribution` enables the following functionality:
 - **Update Salary:** The owner can update the salary of any existing employee.
 - **Pay Employees:** The owner can pay all employees their respective salaries, as long as the contract balance is sufficient.
 - **Get Total Salaries:** The contract calculates the total salaries of all employees.
+
+## Screenshots
+
+<img width="1440" alt="Screenshot 2024-12-15 at 3 32 53 PM" src="https://github.com/user-attachments/assets/18724491-774a-4f85-85db-52b97b14a772" />
+
+<img width="1440" alt="Screenshot 2024-12-15 at 3 33 04 PM" src="https://github.com/user-attachments/assets/485ad4b2-09fe-49b7-aa63-246b5cde5f48" />
+
+<img width="1289" alt="Screenshot 2024-12-15 at 4 13 26 PM" src="https://github.com/user-attachments/assets/780a8eb4-967d-4e47-b99a-6f6a9b150906" />
+
+
+
